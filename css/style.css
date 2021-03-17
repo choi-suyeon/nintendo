@@ -129,31 +129,31 @@ header .close {
     height:60%
 }
 .slide .s1 {
-    background-image: url(../img/slide00.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/slide00.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .slide .s2 {
-    background-image: url(../img/slide11.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/slide11.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .slide .s3 {
-    background-image: url(../img/slide22.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/slide22.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .slide .slide-button-next {
-    background-image: url(../img/next.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/next.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:contain;
 }
 .slide .slide-button-prev {
-    background-image: url(../img/prev.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/prev.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:contain;
@@ -163,7 +163,7 @@ header .close {
 .banner {
     width:100%;
     height:100%;
-    background-image: url(../img/bannerbg.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/bannerbg.png);
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
@@ -227,7 +227,7 @@ header .close {
     background-repeat: no-repeat;
 }
 .b1 .motion .image {
-    background-image: url('../img/bannerleftimg.png')
+    background-image: url('https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/bannerleftimg.png')
 }
 .banner-in .b1 .photo:hover .image-over {
     display: block;
@@ -347,49 +347,49 @@ header .close {
     width:5vw;
 }
 .game .swiper3 .game1 {
-    background-image: url(../img/mario.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/mario.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .game .game2 {
-    background-image: url(../img/zelda.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/zelda.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .game .game3 {
-    background-image: url(../img/splatoon.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/splatoon.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .game .game4 {
-    background-image: url(../img/pukemon.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/pukemon.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .game .game5 {
-    background-image: url(../img/kerby.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/kerby.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .game .game6 {
-    background-image: url(../img/forest.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/forest.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .game .game7 {
-    background-image: url(../img/ringfit.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/ringfit.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
 }
 .game .game8 {
-    background-image: url(../img/justdance.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/justdance.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -707,7 +707,7 @@ footer {
     .banner {
         width:100%;
         height:200vw;
-        background-image: url(../img/bannerbg.png);
+        background-image: url(https://cdn.jsdelivr.net/gh/choi-suyeon/nintendo/img/bannerbg.png);
         background-position: center;
         background-size:cover;
         background-repeat: no-repeat;
